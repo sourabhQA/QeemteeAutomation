@@ -24,7 +24,6 @@ public class merchantPageTest extends Testbase {
 	
 	@Test
 	public void addCategory() throws Exception {
-		
 	Merchantpage.CreateMerchant();
 		
 	
